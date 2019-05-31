@@ -6,7 +6,7 @@ Here's the Master Class of REST With Spring (along with the newly announced Boot
 **[>> THE REST WITH SPRING - MASTER CLASS](http://www.baeldung.com/rest-with-spring-course?utm_source=github&utm_medium=social&utm_content=tutorials&utm_campaign=rws#master-class)**
 
 And here's the Master Class of Learn Spring Security: <br/>
-**[>> LEARN SPRING SECURITY - MASTER CLASS](http://www.baeldung.com/learn-spring-security-course?utm_source=github&utm_medium=social&utm_content=tutorials&utm_campaign=lss#master-class)**
+**[>> LEARN SPRING SECURITY - MASTER CLASS](http://www.baeldung.com/learn-spring-security-course?utm_source=github&utm_medium=social&utm_content=tutorials&utm_campaign=lss#master-class)***
 
 
 
